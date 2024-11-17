@@ -1,0 +1,12 @@
+﻿  lesson1_template.cpp
+C:\Users\Вероника\source\repos\lesson1_template\lesson1_template\lesson1_template.cpp(12,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+      C:\Users\Вероника\source\repos\lesson1_template\lesson1_template\lesson1_template.cpp(12,11):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\Вероника\source\repos\lesson1_template\lesson1_template\lesson1_template.cpp(55,29):
+          выполняется компиляция ссылки на экземпляр шаблон функции "int search<int>(T,std::vector<int,std::allocator<int>>)"
+          with
+          [
+              T=int
+          ]
+  
+  lesson1_template.vcxproj -> C:\Users\Вероника\source\repos\lesson1_template\x64\Debug\lesson1_template.exe
