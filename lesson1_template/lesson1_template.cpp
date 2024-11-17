@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <vector>
 #include <string>
-
+// тут был ваня
 using namespace std;
 
 template<typename T>
